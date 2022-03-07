@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá :)
 
 ## Meu nome é Luanna Christie e eu sou analista e desenvolvedora de sistemas em formação!
 <div align="center">
