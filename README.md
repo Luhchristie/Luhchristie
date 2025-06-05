@@ -1,6 +1,6 @@
 ## Olá :)
 
-## Meu nome é Luanna Christie e eu sou analista e desenvolvedora de sistemas em formação!
+## Meu nome é Luanna Christie e eu sou cientista dedados em formação.
 <div align="center">
   <a href="https://github.com/luhchristie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luhchristie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
